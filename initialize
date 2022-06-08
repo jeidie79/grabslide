@@ -1,0 +1,13 @@
+<script type="text/javascript">
+    $(document).ready(function(){
+      $(‘.images’).slick({
+                  centerMode: true,
+                  dots: false,
+                  infinite: true,
+                  arrows: false,
+                  speed: 500,
+                  slidesToShow: 1,
+                  slidesToScroll: 1,
+      });
+    });
+  </script>
